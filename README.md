@@ -3,7 +3,7 @@ This project contains the review data from the original Yelp review dataset with
 
 ## Task 1: Min-Hash + LSH
 
-Implemented the Min-Hash and Locality Sensitive Hashing algorithms with Jaccard similarity1 to find similar business pairs ifrom the Trained Data.
+Implemented the Min-Hash and Locality Sensitive Hashing algorithms with Jaccard similarity 1 to find similar business pairs from the Trained Data.
 Results: Accuracy >= 0.8. The execution time is less than 200 seconds.
 
 ## Task 2: Content-based Recommendation System
